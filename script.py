@@ -3,7 +3,8 @@ from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.units import mm
 
-# This code is generated with Gemini 3 Flash Preview to built a fast script to print # cards for the traditional italian Christmas game 'Tombola' to enjoy the winter 
+# This code is generated with Gemini 3 Flash Preview to built a fast script to print
+# cards for the traditional italian Christmas game 'Tombola' to enjoy the winter 
 # holidays; some variations of the code are made to make it more readble.
 # The given prompt is the following, also an image of an existing card is uploaded:
 #
